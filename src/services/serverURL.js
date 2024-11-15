@@ -1,5 +1,5 @@
 
 
-const SERVERURL = "http://localhost:3000"
+const SERVERURL = "https://employeeexamserver.onrender.com"
 
 export default SERVERURL
